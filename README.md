@@ -55,9 +55,6 @@ This project analyzes their revenue and performance using Power BI dashboards.
 ![Home](Home.png)
 
 ### 📈 Overview Analysis
-![Weekly Revenue](images/weekly-revenue.png)
-
-### 🏢 Property Performance
 ![Overview Analysis](Overview-Analysis.png)
 
 ### 🏢 Monthly Analysis
