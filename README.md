@@ -48,20 +48,20 @@ This project analyzes their revenue and performance using Power BI dashboards.
 ## 🖼️ Screenshots
 
 
+### 📌 Data Modelling
+![Data Modelling](Data-Modelling.png)
 
-### 📌 Overview Page
-![Dashboard Overview](images/dashboard-overview.png)
+### 📈 Home
+![Home](Home.png)
 
-### 📈 Weekly Revenue Trends
+### 📈 Overview Analysis
 ![Weekly Revenue](images/weekly-revenue.png)
 
 ### 🏢 Property Performance
-![Property Performance](images/property-performance.png)
+![Overview Analysis](Overview-Analysis.png)
 
-### 🏢 Data Modelling
-![Data Modelling](Data-Modelling.png)
-
-Data-Modelling.png
+### 🏢 Monthly Analysis
+![Monthly Analysis](Monthly-Analysis.png)
 
 ---
 
@@ -70,8 +70,3 @@ Data-Modelling.png
 - Power BI (Data Modeling, DAX, Visualization)
 - Excel (Initial Data Review)
 - GitHub (Project Versioning & Sharing)
-
----
-
-## 📁 Folder Structure
-
