@@ -58,6 +58,11 @@ This project analyzes their revenue and performance using Power BI dashboards.
 ### 🏢 Property Performance
 ![Property Performance](images/property-performance.png)
 
+### 🏢 Data Modelling
+![Data Modelling](Data-Modelling.png)
+
+Data-Modelling.png
+
 ---
 
 ## 🛠 Tools & Technologies
